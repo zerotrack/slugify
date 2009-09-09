@@ -1,0 +1,9 @@
+LICENSE
+PLANS
+README.md
+Rakefile
+init.rb
+lib/slugify.rb
+spec/slugify_spec.rb
+spec/spec_helper.rb
+Manifest
